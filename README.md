@@ -1,2 +1,2 @@
-# Azure_Function_HttpTrigger
-Simple Azure Function HttpTrigger
+# About the project
+Building a simple Azure Function HttpTrigger
